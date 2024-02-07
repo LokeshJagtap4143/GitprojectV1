@@ -7,7 +7,7 @@ public class Test {
 
 		String s1="yes";
 		
-		if(s1=="yes")
+		if((s1=="yes")||(s1=="Y"))
 		{
 			System.out.println("Inside yes");
 		}
